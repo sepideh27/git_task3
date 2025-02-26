@@ -1,0 +1,22 @@
+Compulsory Task 1
+Answer the following questions:
+1. Define each of the following terms:
+  a) Data: Data are raw fact that haven't been procced.
+  b) Field: Field is a character or a group of characters that has a specific meaning. it used to define data.
+  c) Record: A logically set of field/field that describes a person place or ...
+  d) File: Fle is a collection of records.
+
+2. What is a DBMS and what are its advantages?
+DBMS is a collection of programs that manage database structure and control access to the data. 
+DBMS allows data to be shared among multiple applications or users and integrates many different users’ views of the data into
+a single data repository
+
+3. Explain the difference between data and information.
+Data are raw fact and information is processed data.
+
+4. What is Metadataa?
+Metadata is "data about data". It provides information about file, database and so on.
+
+5. Given the file below, answer the following questions:
+  e) How many records does the le contain? 4 records
+  f) How many fields are there per records? 5 fields
