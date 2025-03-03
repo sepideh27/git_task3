@@ -1,4 +1,5 @@
-
+# Imadding a extra comment just to be able to add the changes to the repo for this task.
+# All issues have been fixed :-)
 # Asking the user to enter three number
 first_num = int(input("Please enter a number: "))
 second_num = int(input("Please enter another number: "))
