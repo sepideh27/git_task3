@@ -3,7 +3,7 @@ Answer the following questions:
 1. Define each of the following terms:
   a) Data: Data are raw fact that haven't been procced.
   b) Field: Field is a character or a group of characters that has a specific meaning. it used to define data.
-  c) Record: A logically set of field/field that describes a person place or ...
+  c) Record: A logically set of field/field that describes a person place etc
   d) File: Fle is a collection of records.
 
 2. What is a DBMS and what are its advantages?
